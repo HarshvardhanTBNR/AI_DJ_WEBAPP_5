@@ -1,0 +1,21 @@
+.heading{
+font-size: 17px;
+text-align: center;
+width:100%;
+font-weight: bold;
+margin: 0;
+}
+.note{
+font-size: 15px;
+color: black;
+}
+body{
+background-size: cover;
+background-image: url("GUITAR\ FRAME.jpg");
+}
+canvas{
+border:10px 10px white;
+box-shadow:1px 1px 30px red;
+border-radius:20px;
+border:10px solid white;
+}
